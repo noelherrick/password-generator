@@ -1,0 +1,7 @@
+password-generator
+------------------
+
+This simple program generates random passwords. Not much more than that.
+
+TODO
+- Research whether rand() truly is
